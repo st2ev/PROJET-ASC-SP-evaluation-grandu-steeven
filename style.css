@@ -52,8 +52,13 @@ nav .navbar-brand{
 
 .carousel-caption h1{
     font-weight: bold;
+    text-shadow: 1px 1px 2px #74b9ff;
 }
 
+.carousel-caption h1 span{
+    color: red;
+    text-shadow: 1px 1px 2px white;
+}
 .card{
     width: 80%;
     margin-left: 10%;
