@@ -1,0 +1,25 @@
+nav .container-fluid img{
+    height: 50px;
+    width: 50px;
+}
+
+nav .navbar-brand{
+    margin-left: 20px;
+}
+
+.bg-body-tertiary{
+    background-color: #74b9ff !important ;
+}
+
+.navbar .container-fluid{
+    padding: 10px;
+}
+
+.nav-link{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.nav-link:hover{
+    color: white;
+}
