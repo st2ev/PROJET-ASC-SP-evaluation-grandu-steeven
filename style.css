@@ -23,3 +23,7 @@ nav .navbar-brand{
 .nav-link:hover{
     color: white;
 }
+
+.carousel-inner{
+    height: 90.7vh;
+}
