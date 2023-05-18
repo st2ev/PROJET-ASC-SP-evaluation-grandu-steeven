@@ -65,8 +65,34 @@ nav .navbar-brand{
     margin-top: 20px;
     padding: 20px;
     background-color: #a29bfe;
+    border-radius: 25px;
+}
+
+.card-2{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #74b9ff;
+    border-radius: 25px;
 }
 
 .card img{
     height: 10rem;
+}
+
+.card-2 img{
+    height: 10rem;
+}
+
+.card-2 span{
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px white;
+    font-size: 20px;
+}
+
+.the-cards h5{
+    text-decoration: underline;
 }
