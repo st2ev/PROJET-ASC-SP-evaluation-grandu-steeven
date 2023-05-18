@@ -59,6 +59,12 @@ nav .navbar-brand{
     color: red;
     text-shadow: 1px 1px 2px white;
 }
+
+.the-cards{
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
 .card{
     width: 80%;
     margin-left: 10%;
@@ -73,12 +79,19 @@ nav .navbar-brand{
     margin-left: 10%;
     margin-top: 20px;
     padding: 20px;
-    background-color: #74b9ff;
+    background-color: #fab1a0;
     border-radius: 25px;
 }
 
 .card img{
     height: 10rem;
+}
+
+.card span{
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px white;
 }
 
 .card-2 img{
@@ -95,4 +108,45 @@ nav .navbar-brand{
 
 .the-cards h5{
     text-decoration: underline;
+}
+
+footer{
+    padding-top: 3rem;
+    background-color: #74b9ff;
+}
+
+.container .row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container .row h6{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+.row .flex-column{
+    text-decoration: underline;
+}
+
+.row .flex-column ul{
+    list-style: none;
+}
+
+.row .flex-column ul li{
+    margin-right: 35px;
+    margin-bottom: 1rem;
+}
+
+.row .flex-column a{
+    color: black;
+}
+
+.copyright{
+    padding: 20px;
+}
+
+.copyright span{
+    font-weight: bold;
 }
