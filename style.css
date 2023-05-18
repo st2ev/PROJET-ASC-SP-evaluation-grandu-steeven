@@ -144,7 +144,9 @@ footer{
 }
 
 .copyright{
-    padding: 20px;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.082);
+    width: 100%;
 }
 
 .copyright span{
