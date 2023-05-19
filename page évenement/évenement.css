@@ -32,6 +32,7 @@ nav .navbar-brand{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    font-size: 20px;
 }
 
 .the-cards .col-md-4{
@@ -53,6 +54,7 @@ nav .navbar-brand{
     padding: 20px;
     background-color: white;
     border-radius: 25px;
+    font-size: 20px;
 }
 
 .card img{
