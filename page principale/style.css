@@ -106,6 +106,10 @@ nav .navbar-brand{
     font-size: 20px;
 }
 
+.card-2 a{
+    color: red;
+}
+
 .the-cards h5{
     text-decoration: underline;
 }

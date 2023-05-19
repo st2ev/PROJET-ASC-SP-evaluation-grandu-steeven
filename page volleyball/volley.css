@@ -1,0 +1,87 @@
+nav .container-fluid img{
+    height: 50px;
+    width: 50px;
+}
+
+nav .navbar-brand{
+    margin-left: 20px;
+}
+
+.bg-body-tertiary{
+    background-color: #74b9ff !important ;
+}
+
+.navbar .container-fluid{
+    padding: 10px;
+}
+
+.nav-link{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.main-volley{
+    background-image: url(/image/volley.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.main-volley .container{
+    padding-top: 25vh;
+}
+
+.main-volley .card img{
+    height: 300px;
+    width: 400px;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+footer{
+    padding-top: 3rem;
+    background-color: #74b9ff;
+}
+
+.container .row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container .row h6{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+.row .flex-column{
+    text-decoration: underline;
+}
+
+.row .flex-column ul{
+    list-style: none;
+}
+
+.row .flex-column ul li{
+    margin-right: 35px;
+    margin-bottom: 1rem;
+}
+
+.row .flex-column a{
+    color: black;
+}
+
+.copyright{
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.082);
+    width: 100%;
+}
+
+.copyright span{
+    font-weight: bold;
+}
