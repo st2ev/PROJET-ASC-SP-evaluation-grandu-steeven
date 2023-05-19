@@ -24,56 +24,10 @@ nav .navbar-brand{
     color: white;
 }
 
-
-.the-cards{
-    padding-bottom: 3rem;
-    padding-top: 3rem;
-    background-image: url(/image/multisport.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.the-cards .col-md-4{
-    width: 30%;
-}
-
-.card{
-    width: 80%;
-    margin-left: 10%;
-    margin-top: 20px;
-    padding: 20px;
-    border-radius: 25px;
-}
-
-.card-2{
-    width: 80%;
-    margin-left: 10%;
-    margin-top: 20px;
-    padding: 20px;
-    background-color: white;
-    border-radius: 25px;
-}
-
-.card img{
+main .container .row{
+    padding: 25px;
+    background-color: bisque;
     border-radius: 10px;
-}
-
-.card-body span{
-    color: red;
-    font-weight: bold;
-}
-
-.card-2 img{
-    border-radius: 10px;
-}
-
-.the-cards h5{
-    text-decoration: underline;
-}
-
-.card-2 .card-body{
-    padding: 1rem;
 }
 
 footer{

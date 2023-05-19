@@ -33,7 +33,7 @@ nav .navbar-brand{
 }
 
 .main-basket .container{
-    padding-top: 25vh;
+    padding-top: 15vh;
 }
 
 .main-basket .card img{
@@ -84,4 +84,13 @@ footer{
 
 .copyright span{
     font-weight: bold;
+}
+
+@media screen and (max-width: 450px) {
+    .main-basket .card img{
+        height: auto;
+        width: auto;
+        padding: 20px;
+        border-radius: 25px;
+    }
 }

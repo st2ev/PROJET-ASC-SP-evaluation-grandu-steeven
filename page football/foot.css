@@ -33,7 +33,7 @@ nav .navbar-brand{
 }
 
 .main-foot .container{
-    padding-top: 25vh;
+    padding-top: 15vh;
 }
 
 .main-foot .card img{
@@ -84,4 +84,13 @@ footer{
 
 .copyright span{
     font-weight: bold;
+}
+
+@media screen and (max-width: 450px) {
+    .main-foot .card img{
+        height: auto;
+        width: auto;
+        padding: 20px;
+        border-radius: 25px;
+    }
 }

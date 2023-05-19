@@ -65,6 +65,10 @@ nav .navbar-brand{
     padding-top: 3rem;
 }
 
+.the-cards .card-body{
+    padding-top: 15px;
+}
+
 .card{
     width: 80%;
     margin-left: 10%;
